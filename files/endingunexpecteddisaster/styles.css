@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-177px;
-  width:339px;
+  left:-155px;
+  width:384px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u82_div {
+#u92_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -36,7 +36,7 @@
   font-size:35px;
   text-align:center;
 }
-#u82 {
+#u92 {
   border-width:0px;
   position:absolute;
   left:259px;
@@ -50,24 +50,24 @@
   font-size:35px;
   text-align:center;
 }
-#u82 .text {
+#u92 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u82_text {
+#u92_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u83_div {
+#u93_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:339px;
+  width:384px;
   height:170px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -82,12 +82,12 @@
   font-size:20px;
   text-align:left;
 }
-#u83 {
+#u93 {
   border-width:0px;
   position:absolute;
-  left:177px;
-  top:124px;
-  width:339px;
+  left:155px;
+  top:139px;
+  width:384px;
   height:170px;
   display:flex;
   font-family:"黑体", sans-serif;
@@ -96,19 +96,19 @@
   font-size:20px;
   text-align:left;
 }
-#u83 .text {
+#u93 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u83_text {
+#u93_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u84_div {
+#u94_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -127,11 +127,11 @@
   font-style:normal;
   font-size:20px;
 }
-#u84 {
+#u94 {
   border-width:0px;
   position:absolute;
   left:239px;
-  top:294px;
+  top:309px;
   width:216px;
   height:112px;
   display:flex;
@@ -140,14 +140,113 @@
   font-style:normal;
   font-size:20px;
 }
-#u84 .text {
+#u94 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u84_text {
+#u94_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u95_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(2, 167, 240, 0.48627450980392156);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u95 {
+  border-width:0px;
+  position:absolute;
+  left:277px;
+  top:421px;
+  width:140px;
+  height:40px;
+  display:flex;
+}
+#u95 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u95_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(236, 128, 141, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u95.mouseOver {
+}
+#u95_div.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(202, 249, 130, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u95.mouseDown {
+}
+#u95_div.mouseOver.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(202, 249, 130, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u95.mouseOver.mouseDown {
+}
+#u95_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
